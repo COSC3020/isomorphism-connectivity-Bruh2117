@@ -20,8 +20,12 @@ $V_1 = {A, B, C}$ and $V_2 = {D, E, F}$
 $E_1 = {(A, B)}$ and $E_2 = {(D, E)}$
 
 Now suppose there is a function $f: V_1 -> V_2$ such that 
-$f(A) = D$ and 
+
+$f(A) = D$, 
+
 $f(B) = E$
+
+$f(C) = F$
 
 We see that f is a bijection between graphs $A$ and $B$, and that for the edge $(A, B) \in E_1$, $(D, E) \in E_2$. 
 This satisfies in showing that $A$ and $B$ are isomorphic by its definition. 
