@@ -14,7 +14,9 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 # Proof
 
 Suppose $A$ is a graph $G_1 = (V_1, E_1)$ and $B$ is another graph $G_2 = (V_2, E_2)$ where
+
 $V_1 = {A, B, C}$ and $V_2 = {D, E, F}$
+
 $E_1 = {(A, B)}$ and $E_2 = {(D, E)}$
 
 Now suppose there is a function $f: V_1 -> V_2$ such that 
